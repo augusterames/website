@@ -1,0 +1,33 @@
+.banner {
+
+                background-image: url(../../image/voiture.jpg);
+
+                color: white;
+
+                padding: 150px 100px;
+
+                background-size: cover;
+
+                background-position: center;
+
+}
+
+ 
+
+.banner h1 {
+
+                font-size: 55px;
+
+}
+
+.banner h2 {
+
+                font-size: 40px;
+
+                font-weight: lighter;
+
+                opacity: 1;
+
+                margin-bottom: 50px;
+
+}
